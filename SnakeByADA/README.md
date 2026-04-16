@@ -1,4 +1,4 @@
-# Ada Snake (Minimal)
+# Ada Snake 
 
 This folder contains a classic Snake game implemented in Ada.
 
